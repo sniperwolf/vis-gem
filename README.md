@@ -14,7 +14,7 @@ Thanks to [luciuschoi](https://github.com/luciuschoi/visjs-rails/) for the origi
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to `Gemfile`:
 
 ```ruby
 gem 'vis-gem'
@@ -26,7 +26,7 @@ And then execute:
 $ bundle
 ```
 
-Or install it yourself as:
+Or install it with:
 
 ```bash
 $ gem install vis-gem
