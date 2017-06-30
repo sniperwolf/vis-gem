@@ -21,13 +21,13 @@ gem 'vis-gem'
 And then execute:
 
 ```bash
-    $ bundle
+$ bundle
 ```
 
 Or install it yourself as:
 
 ```bash
-    $ gem install vis-gem
+$ gem install vis-gem
 ```
 
 ## Usage
