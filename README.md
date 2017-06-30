@@ -1,7 +1,7 @@
 # vis.js on RoR
 
 [![Gem Version](https://badge.fury.io/rb/vis-gem.svg)](https://badge.fury.io/rb/vis-gem)
-[![Build Status](https://travis-ci.org/sniperwolf/vis-gem.svg?release=4.20.0.1)](https://travis-ci.org/sniperwolf/vis-gem)
+[![Build Status](https://travis-ci.org/sniperwolf/vis-gem.svg?release=4.20.0.2)](https://travis-ci.org/sniperwolf/vis-gem)
 
 
 A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
@@ -60,7 +60,7 @@ See [original vis.js documentation](http://visjs.org/) for properties and method
 
 ## Changelog
 
-- v4.2.0 : First Release;
+- `v4.2.0.2`: First Release;
 
 ## Contributing
 
