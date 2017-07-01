@@ -3,9 +3,9 @@
 [![Gem Version](https://badge.fury.io/rb/vis-gem.svg)](https://badge.fury.io/rb/vis-gem)
 [![Build Status](https://travis-ci.org/sniperwolf/vis-gem.svg?release=4.20.0.2)](https://travis-ci.org/sniperwolf/vis-gem)
 
-A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. More info at [vis.js official website](http://visjs.org/).
+A dynamic, browser based visualization library. **vis.js** is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. More info at [vis.js official website](http://visjs.org/).
 
-This gem wrap vis.js dependencies to assets pipeline in Rails (`=> 3.1`) project.
+`vis-gem` wrap **vis.js** dependencies in assets pipeline in Ruby on Rails (`=> 3.1`) projects.
 
 [Actual](https://github.com/sniperwolf/vis-gem/releases/tag/4.20.0.2) **vis.js version** is `4.20.0` (released on 21 May 2017, see [release notes](https://github.com/almende/vis/releases/tag/v4.20.0)).
 
@@ -55,7 +55,7 @@ $ gem install vis-gem
 Rails.application.config.assets.precompile += %w( network/* )
 ```
 
-See [original vis.js documentation](http://visjs.org/) for properties and methods.
+See [original vis.js documentation](http://visjs.org/) for vis.js properties and methods.
 
 ## Changelog
 
