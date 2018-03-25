@@ -1,5 +1,5 @@
 module Vis
   module Gem
-    VERSION = "4.20.1.0"
+    VERSION = "4.21.0.0"
   end
 end
